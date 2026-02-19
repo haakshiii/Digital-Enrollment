@@ -1,0 +1,8 @@
+{
+  "name": "Digital Enrollment",
+  "description": "A comprehensive student portal for geo-fenced attendance tracking, on-duty (OD) pass management with AI verification, and academic profile enrollment.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
